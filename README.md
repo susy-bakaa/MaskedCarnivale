@@ -1,3 +1,7 @@
+**NOTE:** This is a fork of a fork of MaskedCarnivale. I will try to merge upstream changes and updates, while publishing up to date releases in my dalamud repo for any game and Dalamud updates. The repo link has been modified down below in the original instructions, otherwise they are identical to the original and please follow them for installation.
+
+---
+
 Please consider donating on Ko-fi if you enjoy the plugin!
 
 https://ko-fi.com/projectmimer
@@ -39,7 +43,7 @@ Have fun streaming the game without suffering bad QoL and horrid latency!
 
 2: Go to the Experimental tab and down the bottom under the Custom Plugin Repositories, add the following url into an empty box:
 
-https://raw.githubusercontent.com/ProjectMimer/xivr-Ex/main/repo.json
+https://susybaka.dev/ffxiv/dalamud/repo.json
 
 3: Click on the + at the right side of the window.
 
