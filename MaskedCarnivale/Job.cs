@@ -22,7 +22,7 @@ public sealed unsafe class Job : IDisposable
         }
         else
         {
-            fixed(char* pName = name)
+            fixed (char* pName = name)
             {
                 _handle = FXWindows.CreateJobObject(null, pName);
             }
